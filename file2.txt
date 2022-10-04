@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a file to text.
+=======
+this is a file two text.
+>>>>>>> dev
